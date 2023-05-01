@@ -16,5 +16,14 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_alt_circle","order":2,"path":"sprites/spr_alt_circle/spr_alt_circle.yy",},
+    {"name":"obj_player","order":3,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_floor","order":2,"path":"objects/obj_floor/obj_floor.yy",},
+    {"name":"spr_rectangle","order":1,"path":"sprites/spr_rectangle/spr_rectangle.yy",},
+    {"name":"spr_noise_tile","order":3,"path":"sprites/spr_noise_tile/spr_noise_tile.yy",},
+    {"name":"obj_controller","order":4,"path":"objects/obj_controller/obj_controller.yy",},
+    {"name":"spr_tile_lines","order":4,"path":"sprites/spr_tile_lines/spr_tile_lines.yy",},
+    {"name":"obj_DynamicParent","order":1,"path":"objects/obj_DynamicParent/obj_DynamicParent.yy",},
+  ],
 }
